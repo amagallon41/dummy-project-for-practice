@@ -30,7 +30,7 @@ body {
     position: relative;
 
     cursor: pointer;
-    transition: transform 1s;
+    transition: transform .5s;
 
     /* preserve child 3d   */
     transform-style: preserve-3d;
@@ -61,6 +61,11 @@ body {
   */
 .flipped {
     transform: rotateY(180deg);
+}
+
+section img {
+    width: 100%;
+    object-fit: cover;
 }
 
 /* Media Query for Mobile */

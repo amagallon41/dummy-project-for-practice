@@ -4,7 +4,7 @@
     
     body {
         /* serif font for easier reading */
-        font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Bitstream Vera Sans", "Liberation Sans", Verdana, "Verdana Ref", sans-serif;
+        font-family: Arial, Helvetica, sans-serif;
         /* increase font size */
         font-size: 1.25em;
 }
