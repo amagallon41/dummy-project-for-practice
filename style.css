@@ -68,6 +68,10 @@ section img {
     object-fit: cover;
 }
 
+section h2, section p {
+    font-family: 'Sharpie-Regular';
+}
+
 /* Media Query for Mobile */
 @media only screen and (max-width: 30em){ 
     
